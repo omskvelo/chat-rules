@@ -1,0 +1,19 @@
+.rules-main{
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+.rules{
+  margin-top: 5%;
+}
+.rules h2{
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+.rules ul{
+  padding: 0;
+  margin-left: 10px;
+}
+.rules li{
+  list-style-type: none;
+  margin-bottom: 15px;
+}
